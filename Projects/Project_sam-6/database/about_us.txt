@@ -1,0 +1,23 @@
+
+                            about us
+
+    this project was developed by lathiya jenil and odedera hitesh.
+
+    this program's name is Reva
+
+	this program create using a python language
+
+	program design using tkinter framework
+
+	this program is for personal use as
+
+    this program uses open AI APIs in Back End
+
+    using pyautogui to perform personal computer command use.
+
+    This Program is a User Friendly
+
+	This program can Give Your Question
+
+
+

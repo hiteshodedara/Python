@@ -1,0 +1,5 @@
+
+You: what is python 
+Reva:Python is a programming language that is widely used in many different application domains.
+You: what is the abstraction in python 
+Reva:In Python, abstraction is the process of hiding the implementation details of a program from the user.

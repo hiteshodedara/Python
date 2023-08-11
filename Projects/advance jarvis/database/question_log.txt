@@ -1,0 +1,15 @@
+
+You: There are 49 dogs signed up for a dog show. There are 36 more small dogs than large dogs. How many small dogs have signed up to compete?  
+Reva:There are 85 small dogs signed up to compete.
+You: what is java 
+Reva:Java is a programming language and computing platform that enables developers to create robust, high-performance applications.
+You: more 
+Reva:Java is a versatile and powerful programming language that enables developers to create robust, high-performance applications. Java is used in a wide variety of applications, from web-based applications to enterprise-level applications.
+You: ok 
+Reva:Java is a versatile and powerful programming language that enables developers to create robust, high-performance applications. Java is used in a wide variety of applications, from web-based applications to enterprise-level applications.
+You: python 
+Reva:Python is a versatile and powerful programming language that enables developers to create robust, high-performance applications. Python is used in a wide variety of applications, from web-based applications to enterprise-level applications.
+You: what is python 
+Reva:Python is a versatile and powerful programming language that enables developers to create robust, high-performance applications. Python is used in a wide variety of applications, from web-based applications to enterprise-level applications.
+You: what is html 
+Reva:HTML is the standard markup language for creating web pages. HTML stands for HyperText Markup Language. HTML is used to create the structure and content of a web page.
